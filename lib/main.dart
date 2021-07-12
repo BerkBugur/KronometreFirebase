@@ -1,9 +1,9 @@
-import 'package:cronometro/home.dart';
+import 'package:kronometre/home.dart';
 import 'package:flutter/material.dart';
 
-void main() => runApp(Cronometro());
+void main() => runApp(Kronometre());
 
-class Cronometro extends StatelessWidget {
+class Kronometre extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
